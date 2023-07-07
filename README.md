@@ -27,3 +27,4 @@ Compilação e treinamento do modelo: O modelo é compilado usando o otimizador 
 O histórico de treinamento é armazenado na variável history para posterior análise ou visualização dos resultados.
 
 Repositório do projeto
+https://github.com/DenisRodriguesRocha/Classificacao-Reconhecimento-de-Imagens.git
