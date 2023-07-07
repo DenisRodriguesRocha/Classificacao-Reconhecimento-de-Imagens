@@ -28,3 +28,27 @@ O histórico de treinamento é armazenado na variável history para posterior an
 
 Repositório do projeto
 https://github.com/DenisRodriguesRocha/Classificacao-Reconhecimento-de-Imagens.git
+
+Classificador e Acurácia
+O código apresentado utiliza uma rede neural convolucional (CNN) para classificação do conjunto de dados CIFAR10. Não há a utilização de classificadores diferentes nesse código, apenas o modelo de CNN é construído e treinado.
+
+As acurácias obtidas ao longo das epochs são impressas no final do código, usando as métricas de acurácia do histórico. Cada iteração do loop exibe a acurácia de treinamento e a acurácia de validação correspondentes àquela epoch.
+
+Portanto, o código não utiliza classificadores adicionais, apenas o modelo de CNN é implementado e a acurácia do treinamento e da validação são monitoradas durante o treinamento.
+
+Instalação
+Instalação do TensorFlow:
+
+Utilize o pip, que é o gerenciador de pacotes padrão do Python, para instalar o TensorFlow. Abra o terminal ou prompt de comando e execute o seguinte comando:
+pip install tensorflow
+Aguarde enquanto o pip baixa e instala o TensorFlow. Dependendo do seu ambiente, você pode precisar adicionar sudo antes do comando se estiver usando o Linux ou macOS.
+
+Instalação do Keras:
+
+O Keras é uma biblioteca que agora faz parte do TensorFlow, então não é necessário instalá-lo separadamente. Quando você instala o TensorFlow, o Keras é instalado junto.
+
+Instalação do Matplotlib:
+Use o pip para instalar o Matplotlib executando o seguinte comando no terminal ou prompt de comando:
+pip install matplotlib
+Espere enquanto o pip baixa e instala o Matplotlib. Novamente, pode ser necessário adicionar sudo antes do comando em alguns sistemas operacionais.
+Após seguir esses passos, as bibliotecas TensorFlow, Keras e Matplotlib estarão instaladas no seu ambiente. Agora você pode importá-las em seus scripts e usá-las para desenvolver e treinar modelos de aprendizado de máquina com redes neurais.
