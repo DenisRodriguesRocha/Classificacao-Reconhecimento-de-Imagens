@@ -52,3 +52,6 @@ Use o pip para instalar o Matplotlib executando o seguinte comando no terminal o
 pip install matplotlib
 Espere enquanto o pip baixa e instala o Matplotlib. Novamente, pode ser necessário adicionar sudo antes do comando em alguns sistemas operacionais.
 Após seguir esses passos, as bibliotecas TensorFlow, Keras e Matplotlib estarão instaladas no seu ambiente. Agora você pode importá-las em seus scripts e usá-las para desenvolver e treinar modelos de aprendizado de máquina com redes neurais.
+
+Apresentação do Projeto
+https://drive.google.com/file/d/1ME8vJ4N4g6d1vLvWa7GPky4FBf3d385r/view?usp=sharing
