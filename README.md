@@ -1,6 +1,6 @@
 # Classificacao-Reconhecimento-de-Imagens
 
-ítulo
+Título
 Classificação de Imagem do banco de dados CIFAR-10
 
 Equipe
